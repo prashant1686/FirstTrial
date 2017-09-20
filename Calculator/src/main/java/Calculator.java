@@ -12,7 +12,8 @@ import static java.lang.Double.parseDouble;
 /**
  * Created by pku141 on 7/24/2017.
  */
-public class Calculator extends JFrame{
+public class Calculator extends JFrame {
+
     private JMenuBar menuBar;
     private JMenu file;
     private JMenu edit;
